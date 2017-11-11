@@ -1,0 +1,169 @@
+.head{
+    text-align:right;
+    width:100%
+}
+.head-list{
+    position: relative;
+    display: inline-block;
+}
+
+.head-list1{
+    position: relative;
+    display: inline-block;
+    font-weight: bold;
+    font-size: 15px;
+    text-decoration:underline;
+    color: black;
+}
+
+.head-list2{
+    position: relative;
+    display: inline-block;
+    color: white;
+    background-color:blue;
+    font-weight: bold;
+    font-size: 15px;
+}
+.head-list3{
+    position: relative;
+    display: inline-block;
+    font-size: 15px;
+    text-decoration:underline;
+}
+
+.head-list101{
+    position: relative;
+    display: inline-block;
+    margin-right: 10px;
+	text-align: center;
+    font-size: 15px;
+}
+
+.head-list102{
+    position: relative;
+	display: inline-block;
+	margin-right: 10px;
+	width: 64px;
+	text-align: center;
+	font-size: 15px;
+	background-color: blue;
+	color:white;
+	text-decoration: none;
+}
+a.ex1:hover
+{ 
+   color:blue;
+}
+a.ex2:hover
+{
+    background-color: white;
+    color: black;
+}
+
+.photo{
+    text-align: center;
+    width: 100%;
+}
+
+.baidu-image{
+    width: 270px;
+    position: relative;
+    display: inline-block;
+    height:129px;
+}
+
+.search{
+    height: 36px;
+    text-align: center;
+	margin-top: 15px;
+    width: 100%;
+}
+
+.search-wenben
+{
+    height: 32px;
+	width:539px;
+    border-bottom: 1px solid white;
+
+}
+
+.submit{
+    display: inline-block;
+	position: relative;
+    width: 100px;
+    height: 36px;
+    right: 6px;
+    color: white;
+    background-color: blue;
+    font-size: 15px;
+    text-align: center;
+}
+
+.baidu-mobile{
+	text-align: center;
+	margin-top: 180px;
+	width: 1349px;
+}
+
+.baidu-img{
+	display: inline-block;
+	position: relative;
+	width: 60px;
+}
+.baidu-mobile-txt
+{
+    margin-top: 10px;
+	position: relative;
+	display: block;
+	font-size: 13px;
+	color:gray;
+}
+
+.baidu-foot{
+    width: 100%;
+    text-align: center;
+}
+.baidu-foot1
+{
+    text-align: center;
+    color:gray;
+    position: relative;
+    display: inline-block;
+    margin-left: 20px;
+    list-style: none;
+}
+
+a
+{
+    text-align: center;
+    text-decoration: underline;
+    color: gray;
+    display: inline-block;
+    position: relative;
+    font-size: 13px;
+}
+
+.foot01
+{
+    color: gray;
+    font-size: 13px;
+}
+
+.baidu-foot101
+{
+    text-align: center;
+    color:gray;
+    position: relative;
+    display: inline-block;
+    margin-left: 5px;
+    list-style: none;
+}
+.baidu-foot102
+{
+    text-align: center;
+    color:gray;
+    position: relative;
+    display: inline-block;
+    margin-left: 20px;
+    list-style: none;
+}
